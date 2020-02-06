@@ -6,6 +6,7 @@ function draw() {
   background(244, 194, 194);
   
   //The quick brown fox jumps over the lazy dog
+  strokeWeight(3);
   T(10, 10);
   H(60, 10);
   E(110, 10);
@@ -54,6 +55,7 @@ function draw() {
   hw1 cp2
   Stella Sun
   */
+  strokeWeight(0.5);
   H(10, 550);
   W(60, 550);
   TWO(110, 550);
