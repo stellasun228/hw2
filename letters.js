@@ -40,6 +40,7 @@ function draw() {
 
 //A
 function A(x, y) {
+
   line(x+20, y, x, y+90);
   line(x+20, y, x+40, y+90);
   line(x+10, y+45, x+30, y+45);
@@ -212,7 +213,5 @@ function Z(x, y) {
   line(x, y, x+40, y);
   line(x, y+90, x+40, y+90);
 }
-
-
 
 
